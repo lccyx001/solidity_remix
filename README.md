@@ -1,2 +1,2 @@
 # solidity_remix
-Solidity remix教程
+Solidity remix
